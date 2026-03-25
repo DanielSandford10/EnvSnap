@@ -1,4 +1,4 @@
-# envsnap
+# EnvSnap
 
 A command-line tool to snapshot and restore `.env` files across your projects.
 
